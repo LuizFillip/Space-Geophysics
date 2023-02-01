@@ -2,4 +2,5 @@
 
 ## Sources 
 
-- Are driven by pressure gradients from solar and aurora1 heating, with some forcing by tidal energy from below.
+- Are driven by pressure gradients from solar and auroral heating, with some 
+forcing by tidal energy from below.
