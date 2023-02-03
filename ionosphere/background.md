@@ -1,133 +1,80 @@
 # The Ionosphere
 
-<ol> 
- - The ionosphere is the region of the upper atmosphere where the Sun's ultraviolet radiation can ionize oxygen molecules to create a positive ion and a free electron. So, It is the region where plasma density is maximum, extending from 60 to 1000 km above the surface of the earth.
+The ionosphere is the region of the upper atmosphere where the Sun's ultraviolet radiation can ionize oxygen molecules to create a positive ion and a free electron. So, It is the region where plasma density is maximum, extending from 60 to 1000 km above the surface of the earth.
 
-- The ionosphere organizes itself into regions or "layers". Theses layers varies with strength density of ionization with altitude under different processes od production and loss.
+Moreover, yhe ionosphere organizes itself into regions or "layers". Theses layers varies with strength density of ionization with altitude under different processes od production and loss.
      
-</ol>
 
 ## History
 
-<ol>  
-   - Hertz demonstrated that the direction of travel of an electromagnetic wave can be altered by an electrically conductive obstacle. 
-   - in 1901 Maconi heard transmissions in Newfoundland from Poldhu (England) 
-   - In 1902 Kennelly (US) and Heaviside (Great Britain) suggested independently that the Earth's upper atmosphere consisted of an electrically conductive region 
-         -  
-           - In 1925 Russel proposed the name Kennelly-Heaviside layer.  
-           - In 1926 Watson-Watt introduced the term "ionosphere". 
+
+- Hertz demonstrated that the direction of travel of an electromagnetic wave can be altered by an electrically conductive obstacle. 
+   
+- in 1901 Maconi heard transmissions in Newfoundland from Poldhu (England) 
+
+- In 1902 Kennelly (US) and Heaviside (Great Britain) suggested independently that the Earth's upper atmosphere consisted of an electrically conductive region 
+           
+- In 1925 Russel proposed the name Kennelly-Heaviside layer.  
+
+- In 1926 Watson-Watt introduced the term "ionosphere". 
          
-   - In 1924 Appleton found conclusive evidence of an electrically conductive 
-    region by measuring the angle of arrival of radio waves from a nearby transmitter. 
-   - In 1925 Breit and Tuve demonstrated the existence in a more striking way .
-         - 
-           - They transmitted short burts of energy straight up and measured 
-            the delay of the return echo .
-           - Later they varied the frequency of the transmitted pulses and 
-            noted that above a certain "Critical frequency" the reion would no 
-            longer return an echo .
-           - This was the first documented use of a vertical incidence 
-            ionospheric sounder (ionosonde)</li>
+- In 1924 Appleton found conclusive evidence of an electrically conductive region by measuring the angle of arrival of radio waves from a nearby transmitter. 
+ 
+- In 1925 Breit and Tuve demonstrated the existence in a more striking way. They transmitted short burts of energy straight up and measured the delay of the return echo.
+
+- Later they varied the frequency of the transmitted pulses and noted that above a certain "Critical frequency" the reion would no longer return an echo. This was the first documented use of a vertical incidence ionospheric sounder (ionosonde)
          
-   -The work of breit and tuve opended the doors</li>
-   - Swept-frequency ionosondes develeped 
-   - Lots of military interest in the ionosphere during WW2 .
-   - International Geophysical Year (IGY) from July 1957 - 
-    December 1958 performed worldwide measurements of the ionosphere. 
-   - Data from worldwide ionosondes allowed 
-    develeopment of model of E and F regions .
-</ol>
-    
+- The work of breit and tuve opended the doors
+  - Swept-frequency ionosondes develeped 
+  - Lots of military interest in the ionosphere during WW2 .
+  - International Geophysical Year (IGY) from July 1957-December 1958 performed worldwide measurements of the ionosphere. 
+  - Data from worldwide ionosondes allowed develeopment of model of E and F regions .
+
 
 ## Ionosphere layers
 
 ### D-layer
 
-<font size="3"> 
-<ol>    
  - About <b>50 - 100 km</b> altitude 
  &emsp;   
- - <b> Production </b> 
-     - 
-       - Daytime ionization of nitric oxide (NO) by solar Lyman alpha (121 nm) 
-        and nitrogen and oxygen ($N_2$, $O_2$) by solar X-rays (less than 20 nm). 
-        Molecular ions react with water vapor to produce water cluster ions.     
+
+- Daytime ionization of nitric oxide (NO) by solar Lyman alpha (121 nm) and nitrogen (N2) and oxygen (O2) by solar X-rays (less than 20 nm). Molecular ions react with water vapor to produce water cluster ions.     
      
- - <b> Loss </b> 
-     - 
-       -Electrons recombine rapidly with water cluster ions and also attach 
-        to molecules to make negative ions (but rapidly detach again in daylight). 
-     
-    
- - <b> Balance </b> 
-     - 
-       -Region disappers at night (within several minutes) as production 
-        essentially ceases and electrons undergo rapid recombination and attachment. 
-       - Rapidly disappers at sunset; 
-       - Rapidly re-forms at sunrise. 
-     
-    
- - Absorbs long wavelenght <b>radio waves.</b> 
-         -  
-           - 160, 80 and 40 meters  
+- Electrons recombine rapidly with water cluster ions and also attach to molecules to make negative ions (but rapidly detach again in daylight). 
          
- </ol> </font>
+- Region disappers at night (within several minutes) as production essentially ceases and electrons undergo rapid recombination and attachment. 
+- Rapidly disappers at sunset; 
+- Rapidly re-forms at sunrise. 
+     
+    
+ - Absorbs long wavelenght <b>radio waves.</b>: 160, 80 and 40 meters  
+         
+ 
 
 
 ### E - Layer
-
-<ol> 
- - about <b>100-140 km </b> altitude. 
- &emsp;  
-<li><b> Production </b> 
-     - 
-   -Daytime ionization of molecular oxygen ($O_2$) by EUV radiation (90 - 130 nm),
-     ionization of meteoric vapors .
-     
-
-<li><b> Loss </b></li>
-     - 
-   - Electrons recombine with molecular ions ($O_2^+$ and $NO^+$)
-     
-   
- - <b> Banlace </b> 
-     - 
-   - Layer persists, although diminishes, during night due to slower recombination
-     (than in D-region) and presence of atomic metalic ions such as $Na^+$ (sodium) and $Fe^+$ (iron).
-      Electrons recombine with atomic ions (such as $Na^+$ or $O^+$) very inefficiently .
-   - Similar to D-Region 
-   - Less absortion 
-         -   
-           - 10m, 6m and 2m</li>
-         
-     
- - E region behaves as a Chapman layer.   
- - Auroral propagation .
- - Sporadic - E skip</li>
-     - 
-       - At the E region height sporadic thin layers can be formed that can
-         have electron densities well above the background values. 
-     
+ 
+- about <b>100-140 km </b> altitude. 
+ 
+-Daytime ionization of molecular oxygen ($O_{2}$) by EUV radiation (90 - 130 nm), ionization of meteoric vapors .
     
-</ol>
-
-
-### F Layer
-
-<ol> 
- - <b>Production </b></li>
-     -  
-       - daytime ionization of atomic $O$ by extreme ultraviolet (EUV) solar radiation 
-        (20 - 90 nm). $O^+$ converted to $NO^+$ by molecular nitrogen ($N_2$) 
-       - Can remain ionized all night 
-       - Variations depend on local time, latitude, longitude, season, solar cycle, 
-        geomagnetic activity, and electrodynamic conditions</li>
+- Layer persists, although diminishes, during night due to slower recombination (than in D-region) and presence of atomic metalic ions such as $Na^+$ (sodium) and $Fe^+$ (iron). Electrons recombine with atomic ions (such as $Na^+$ or $O^+$) very inefficiently .
+ 
+- E region behaves as a Chapman layer.   
+- Auroral propagation .
+- Sporadic - E skip.
+- At the E region height sporadic thin layers can be formed that can have electron densities well above the background values. 
      
+### F Layer
+      
+- daytime ionization of atomic $O$ by extreme ultraviolet (EUV) solar radiation (20 - 90 nm). $O^+$ converted to $NO^+$ by molecular nitrogen ($N_2$) 
+- Can remain ionized all night 
+- Variations depend on local time, latitude, longitude, season, solar cycle, geomagnetic activity, and electrodynamic conditions
+     
+- Splits into <b>two regions</b> during the day 
 
- - Splits into <b>two regions</b> during the day 
+- Long-range HF propagation 
 
- - Long-range HF propagation 
-</ol>
 
 
 #### F1 layer
